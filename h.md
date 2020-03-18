@@ -1,8 +1,7 @@
 ---
 layout: default
+title: About
 ---
-
-# This is a test page!!
 
 What should an essay be? Many people would say persuasive. That's what a lot of us were taught essays should be. But I think we can aim for something more ambitious: that an essay should be useful.
 
