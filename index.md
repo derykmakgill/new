@@ -1,9 +1,6 @@
 ---
 layout: default
 ---
-
-<img src="https://sep.yimg.com/ay/paulgraham/index-1.gif" width="410" height="308" border="0" hspace="0" vspace="0">
-
 <h2>	Me in 10 seconds
 </h2>
 <p>
@@ -37,9 +34,7 @@ layout: default
 <p>
 	See <a href="/contact">why you should</a>, though read my <a href="/faq">frequently asked questions</a>, first.
 </p>
-</section>
 
-<section id="mybooks">
 <h2>Books</h2>
 <dl>
 	<dt><a href="/a">Anything You Want</a> <span class="small">(2011)</span></dt>
@@ -51,9 +46,8 @@ layout: default
 	<dt><a href="/h">How to Live</a> <span class="small">(2020)</span></dt>
 	<dd>radically different approaches to life, in succinct directives</dd>
 </dl>
-</section>
 
-<section id="podcast">
+
 <h2>Podcast</h2>
 <p>
 My podcast is an audio version of my blog.
@@ -70,9 +64,7 @@ Subscribe at
 <a href="https://podcasts.google.com/?feed=aHR0cHM6Ly9zaXZlcnMub3JnL3BvZGNhc3QucnNz">Google</a>, or
 <a href="/podcast.rss">copy the master RSS</a> to paste into your favorite player.
 </p>
-</section>
 
-<section id="newestarticles">
 <h2>Newest Articles <small><a href="/blog">see all</a></small></h2>
 <ul>
 	<li><a href="/mny">Time is personal. Your year changes when your life changes.</a></li>
@@ -82,9 +74,7 @@ Subscribe at
 	<li><a href="/pinit2">Podcast published today</a></li>
 	<li><a href="/trd">When in doubt, try the difference</a></li>
 </ul>
-</section>
 
-<section id="popularposts">
 <h2>Popular Articles <small><a href="/blog">see all</a></small></h2>
 <ul>
 	<li><a href="/ff">Leadership Lessons from Dancing Guy</a></li>
@@ -94,24 +84,7 @@ Subscribe at
 	<li><a href="/trust">Why I gave away my company to charity</a></li>
 	<li><a href="/pa">Parenting : Who is it really for?</a></li>
 </ul>
-</section>
 
-<section id="list">
-<h2>My private email list</h2>
-<p>
-If you want the announcements and opportunities that I never post publicly, get on my private email list, here:
-</p>
-<form action="/list" method="post" class="inlineform">
-<label for="name">Your Name</label><br>
-<input type="text" name="name" id="name" value=""><br>
-<label for="email">Your Email (kept private! never shared.)</label><br>
-<input type="email" name="email" id="email" value="">
-<input type="hidden" name="listype" value="all">
-<input type="submit" name="submit" value="sign up">
-</form>
-</section>
-
-<section id="companies">
 <h2>Projects <small><a href="/projects">see all projects</a></small></h2>
 <dl>
 	<dt><a href="/book">Book Notes</a></dt>
@@ -121,9 +94,7 @@ If you want the announcements and opportunities that I never post publicly, get 
 	<dt><a href="https://musicthoughts.com/">MusicThoughts</a></dt>
 	<dd>inspiring quotes about music, translated into Español, Français, Deutsch, Italiano, Português, Русский, العربية, 日本語, and 中文</dd>
 </dl>
-</section>
 
-<section id="videos">
 <h2>Videos</h2>
 <dl>
 	<dt><a href="https://www.ted.com/speakers/derek_sivers">TED (ted.com)</a></dt>
@@ -135,18 +106,9 @@ If you want the announcements and opportunities that I never post publicly, get 
 	<dt><a href="/presentations">Conference Presentations</a></dt>
 	<dd>Talks from other conferences, all subjects.</dd>
 </dl>
-</section>
 
-<section id="interviews">
 <h2>Interviews</h2>
 <p>You can listen to over <a href="/i">44 hours of interviews</a>, where I´m the guest.</p>
 <p>Each one has an MP3 you can download, or a transcript if you prefer to read.</p>
-</section>
 
-<section id="photos">
-<h2>Photos <small>(click for big)</small></h2>
-<a href="/images/DerekSivers-20141119-1450.jpg"><img src="/images/DerekSivers-20141119-100.jpg" alt="Derek Sivers" title="© 2014 Derek Sivers"/></a>
-<a href="/images/DerekSivers-20141209a-1853.jpg"><img src="/images/DerekSivers-20141209a-100.jpg" alt="Derek Sivers" title="© 2014 Pat Shepherd - patshepherd.co.nz" /></a>
-<a href="/images/DerekSivers-20141209b-2333.jpg"><img src="/images/DerekSivers-20141209b-100.jpg" alt="Derek Sivers" title="© 2014 Pat Shepherd - patshepherd.co.nz" /></a>
-<a href="/images/DerekSivers-20141209c-1556.jpg"><img src="/images/DerekSivers-20141209c-100.jpg" alt="Derek Sivers" title="© 2014 Pat Shepherd - patshepherd.co.nz" /></a>
-</section>
+
