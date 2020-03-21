@@ -10,7 +10,7 @@ title: About
 	So this is just one big page where I can write all about myself, without feeling the need for it to be <a href="/useless">useful</a>.
 	And some day this site will be all that’s left of me, so I might as well write my own mini autobiography.
 </p>
-</header>
+
 
 <h2>
 	Time line for context:
